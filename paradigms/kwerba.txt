@@ -1,0 +1,1 @@
+	1-Aug	1 dim	1 dual	1 plural	2-Aug	2 dim	2 dual	2 plural	3-Aug	3 dim	3 dual	3 pluralI	a	a	ac	ec	a	a	ac	ac	a	a	ac	naNII	a	naN	aN	eN	a	naN	aN	aN	a	naN	aN	naNIII	a	naN	aN	e	a	naN	aN	a	a	naN	aN	aIV	a	naN	aN	era	a	naN	aN	ara	a	naN	aN	ara
