@@ -7,6 +7,8 @@ This directory contains the data and code for calculating *average conditional e
 
 * Ackerman, Farrell and Robert Malouf. 2013. "Morphological organization: The Low Conditional Entropy Conjecture." *Language* 89:429-464.
 
+See [ModernGreek.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/rmalouf/morphology/master/paradigms/ModernGreek.ipynb) for examples of it in action.
+
 ### Data sources:
 
 amele.txt
