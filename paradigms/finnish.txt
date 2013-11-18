@@ -1,1 +1,7 @@
-	Nom.sg	Gen.sg	Part.sg	Part.pl	Iness.pl1	i	in	ia	eja	eissa2	e	en	ea	eja	eissa3	i	en	ea	ia	issa4	i	en	ta	ia	issa5	i	S3+en	S2+ta	ia	issa6	e	een	etta	eita	eissa
+	Nom.sg	Gen.sg	Part.sg	Part.pl	Iness.pl
+1	i	in	ia	eja	eissa
+2	e	en	ea	eja	eissa
+3	i	en	ea	ia	issa
+4	i	en	ta	ia	issa
+5	i	S3+en	S2+ta	ia	issa
+6	e	een	etta	eita	eissa

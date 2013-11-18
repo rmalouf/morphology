@@ -1,1 +1,17 @@
-	gen pl	gen sg	loc pl	loc sg	nom pl	nom sgI.I	_	_	ni	kä	_	_I.II	ni	_	ni	kä	ni	_I.III	ni	_	ni	kä	_	_II.I	_	kä	ni	kä	_	_II.II	ni	kä	ni	kä	ni	_II.III	ni	kä	ni	kä	_	_II.IV	ni	kä	_	kä	_	_II.V	_	kä	ni	kä	ni	_II.VI	_	kä	_	kä	_	_III.II	ni	kä	ni	_	ni	_III.III	ni	kä	ni	_	_	_III.IV	ni	kä	_	_	_	_IV.II	ni	_	ni	_	ni	_IV.III	ni	_	ni	_	_	_IV.IV	ni	_	_	_	_	_IV.V	_	_	_	_	_	_
+	gen pl	gen sg	loc pl	loc sg	nom pl	nom sg
+I.I	_	_	ni	k√§	_	_
+I.II	ni	_	ni	k√§	ni	_
+I.III	ni	_	ni	k√§	_	_
+II.I	_	k√§	ni	k√§	_	_
+II.II	ni	k√§	ni	k√§	ni	_
+II.III	ni	k√§	ni	k√§	_	_
+II.IV	ni	k√§	_	k√§	_	_
+II.V	_	k√§	ni	k√§	ni	_
+II.VI	_	k√§	_	k√§	_	_
+III.II	ni	k√§	ni	_	ni	_
+III.III	ni	k√§	ni	_	_	_
+III.IV	ni	k√§	_	_	_	_
+IV.II	ni	_	ni	_	ni	_
+IV.III	ni	_	ni	_	_	_
+IV.IV	ni	_	_	_	_	_
+IV.V	_	_	_	_	_	_

@@ -1,1 +1,5 @@
-	nom.sg.	acc.sg.	gen.sg.	dat.sg.	loc.sg.	ins.sg.	nom.pl.	acc.pl.	gen.pl.	dat.pl.	loc.pl.	ins.pl.thing	o	o	a	u	e	om	a	a	0	am	ax	am'ifactory	0	0	a	u	e	om	i	i	ov	am	ax	am'icountry	a	u	i	e	e	oj	i	i	0	am	ax	am'ibone	0	0	i	i	i	ju	i	i	ej	am	ax	am'i
+	nom.sg.	acc.sg.	gen.sg.	dat.sg.	loc.sg.	ins.sg.	nom.pl.	acc.pl.	gen.pl.	dat.pl.	loc.pl.	ins.pl.
+thing	o	o	a	u	e	om	a	a	0	am	ax	am'i
+factory	0	0	a	u	e	om	i	i	ov	am	ax	am'i
+country	a	u	i	e	e	oj	i	i	0	am	ax	am'i
+bone	0	0	i	i	i	ju	i	i	ej	am	ax	am'i

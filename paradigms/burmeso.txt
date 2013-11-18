@@ -1,1 +1,3 @@
-	I.sg	I.pl	II.sg	II.pl	III.sg	III.pl	IV.sg	IV.pl	V.sg	V.pl	VI.sg	VI.plA	j	s	g	s	g	j	j	j	j	g	g	gB	b	t	n	t	n	b	b	b	b	n	n	n
+	I.sg	I.pl	II.sg	II.pl	III.sg	III.pl	IV.sg	IV.pl	V.sg	V.pl	VI.sg	VI.pl
+A	j	s	g	s	g	j	j	j	j	g	g	g
+B	b	t	n	t	n	b	b	b	b	n	n	n
