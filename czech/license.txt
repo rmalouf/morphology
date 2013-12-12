@@ -1,0 +1,5 @@
+
+Word forms of nouns and verbs with their lemmata and morphological tags as they occur in corpus SYN2010 with additional frequency information from the same corpus; position 15 of the tag (variant/style indication) ignored. Compiled by: Institute of the Czech National Corpus, Faculty of Arts, Charles University, Prague, http://www.korpus.cz/ , using the morphological dictionary MorfFlex CZ, https://ufal-point.mff.cuni.cz/xmlui/handle/11858/00-097C-0000-0015-A780-9
+
+This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
+
