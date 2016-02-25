@@ -1,0 +1,9 @@
+class	nom.sg	gen.sg	acc.sg	ill.sg	iness.sg	elat.sg	com.sg	nom.pl	gen.pl	acc.pl	ill.pl	iness.pl	elat.pl	com.pl
+Ia	str+a	wk+a	wk+av	str+aj	wk+an	wk+ast	wk+ajn	wk+a	wk+aj	wk+ajd	wk+ajda	wk+ajn	wk+ajst	wk+aj
+Ib	str+á	wk+á	wk+áv	str+áj	wk+án	wk+ást	wk+ájn	wk+á	wk+áj	wk+ájd	wk+ájda	wk+ájn	wk+ájst	wk+áj
+Ic	str+o	wk+o	wk+ov	str+oj	wk+on	wk+ost	wk+ojn	wk+o	wk+oj	wk+ojd	wk+ojda	wk+ojn	wk+ojst	wk+oj
+Id	str+å	wk+å	wk+åv	str+åj	wk+ån	wk+åst	wk+åjn	wk+å	wk+åj	wk+åjd	wk+åjda	wk+åjn	wk+åjst	wk+åj
+Ie	str+e	wk+e	wk+ev	str+áj	wk+en	wk+est	wk+ijn	wk+e	wk+ij	wk+ijd	wk+ijda	wk+ijn	wk+ijst	wk+ij
+II	wk+aj	str+a	str+av	str+aj	str+an	str+ast	str+ajn	str+a	str+aj	str+ajd	str+ajda	str+ajn	str+ajst	str+aj
+IIIa	wk+0	str+a	str+av	str+ij	str+in	str+ist	str+ijn	str+a	str+ij	str+ijd	str+ijda	str+ijn	str+ijst	str+ij
+IIIb	wk+V	str+a	str+av	str+ij	str+in	str+ist	str+ijn	str+a	str+ij	str+ijd	str+ijda	str+ijn	str+ijst	str+ij

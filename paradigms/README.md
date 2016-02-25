@@ -7,15 +7,17 @@ This directory contains the data and code for calculating *average conditional e
 
 * Ackerman, Farrell and Robert Malouf. 2013. "Morphological organization: The Low Conditional Entropy Conjecture." *Language* 89:429-464.
 
-See [ModernGreek.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/rmalouf/morphology/master/paradigms/ModernGreek.ipynb) for examples of it in action.
+* Ackerman, Farrell and Robert Malouf. In press. "Implicative relations in word-based morphological systems." In *Cambridge Handbook of Morphology*, ed. by Gregory Stump and Raphael Finkel. Cambridge: Cambridge University Press.
+
+See [ModernGreek.ipynb] and [Saami.ipynb] for examples of it in action.
 
 ### Data sources:
 
 amele.txt
-:	Amele possessor suffixes (Roberts 1987; Hein & Müller 2009)
+:	Amele possessor suffixes (Roberts 1987; Hein & Müller 2009)
 
 arapesh.txt
-:	Arapesh number suffixes (Dobrin 1999; Hein & Müller 2009)
+:	Arapesh number suffixes (Dobrin 1999; Hein & Müller 2009)
 
 burmeso.txt
 :	Burmeso object agreement prefixes (Donohue 2001; Baerman et al. 2010)
@@ -44,6 +46,5 @@ nuer.txt
 russian.txt
 :	Russian case suffixes (Baerman et al. 2010)
 
-
-
-
+saami.txt
+:   Pite Saami nouns (stem grade and suffix) (Wilbur 2014)
